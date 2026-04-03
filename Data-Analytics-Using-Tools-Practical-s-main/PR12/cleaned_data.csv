@@ -1,0 +1,10 @@
+EmployeeID,Name,Age,Department,Salary,Bonus,Gender
+1,John,25,human resources,50000,5000,Male
+2,Alice,30,it,60000,6000,Female
+3,Bob,30,human resources,55000,5500,Male
+4,Carol,28,it,62000,5800,Female
+5,David,35,finance,70000,7000,Male
+6,Eva,40,human resources,80000,8000,Female
+7,Frank,29,it,58000,5800,Male
+8,Grace,31,finance,72000,7200,Female
+10,Ian,26,it,59000,5900,Male
